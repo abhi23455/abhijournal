@@ -108,7 +108,7 @@ include "koneksi.php";
               <img src="img/g1.jpg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-              <img src="img/g2.jpg" class="d-block w-100" alt="...">
+              <img src="img/gg.jpg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
               <img src="img/g3.jpg" class="d-block w-100" alt="...">
